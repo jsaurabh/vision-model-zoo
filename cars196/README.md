@@ -1,4 +1,4 @@
-This is an implementation of a ResNet 34 on the Stanford Cars196 dataset [Cars196](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+This is an implementation of a ResNet 34 on the Stanford [Cars196](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) dataset
 
 I ended up using only the train data from the dataset, as my model is only learning to do object recognition rather than boundary box detection which is what the dataset is aimed for
 

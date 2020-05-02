@@ -12,6 +12,7 @@
 
 # Downloaded data
 /**/data/
+/**/models/
 
 ## Python
 /**/__pycache__/

@@ -14,3 +14,5 @@ The command above will download the data, unzip it and setup a directory structu
 
 ## Model
 
+Once the data directory has been setup, run the `CancerNet.ipynb` notebook.
+
